@@ -1,0 +1,169 @@
+.template{
+	background: #F0FFF0;
+}
+h1 {
+	font-weight: bold;
+	font-size: 45px;
+}
+h2 {
+	font-size: 27px;
+	margin-left: 89px;
+	color: #2970E4;
+	padding-bottom: 10px;
+} 
+h3 {
+	font-size: 40px;
+	text-align: center;
+	color: #484848;
+	font-weight: bold;
+	margin-bottom: 62px;
+}
+h5 {
+	font-weight: 601;
+	color: #585858;
+}
+h6{
+	margin: 40px 0px 4px 37px;
+	font-size: 20px;
+	font-weight: bold;
+}
+p {
+	color: #747474;
+}
+.logo {
+	width: 118.07px;
+	height: 29px;
+	margin-left: 155px;
+}
+.container {
+	padding-bottom: 50px;
+}
+.nav-bg{
+    background: #F0FFF0 !important;
+}
+.all-button {
+	border-radius: 20px;
+	padding: 6px 20px;
+}
+.all-button a{
+	text-decoration: none;
+	color: #fff;
+}
+.nav-section {
+	margin-right: 70px;
+}
+.header-right img {
+	width: 100%;
+	margin-left: 38px;
+}
+.header-left {
+	padding-left: 189px;
+	margin-top: 64px;
+}
+.header-right {
+	padding: 70px 182px 0px 0px;
+}
+.contant-bg{
+	background-color: #ffff;
+}
+.contant {
+	margin: 30px 60px 80px;
+}
+.seperate-card {
+	height: 218px;
+	border: none;
+	background: #F6FEF6;
+	border-radius: 8px;
+	overflow: hidden;
+}
+.seperate-card-body {
+	height: 110px;
+	width: 235px;
+	overflow: hidden;
+}
+.seperate-card img {
+	width: 64px;
+	height: 73px;
+	margin-top: 19px;
+	margin-right: 25px;
+}
+.seperate-card-text {
+	margin-left: 29px;
+	margin-top: 15px;
+}
+#card-shadow {
+	background: #fff;
+	box-shadow: 5px 5px 24px #DCDCDC;
+}
+.calendar img {
+	width: 17%;
+	font-weight: bold;
+	margin-right: 6px;
+}
+.people img {
+	width: 24%;
+	margin-right: 9px;
+}
+small {
+	padding-top: 15px;
+	font-weight: bold;
+	font-size: 15px;
+}
+.main-card {
+	border: none;
+	box-shadow: 5px 5px 30px#999;
+	border-radius: 13px;
+}
+.main-card-top-img {
+	padding: 25px 15px 5px;
+}
+.card-footer {
+	border: none;
+	background-color: #fff;
+	border-radius: 14% !important;
+}
+.footer-top img {
+	width: 45%;
+	margin-left: 179px;
+}
+.footer-top p {
+	color: #000;
+	font-size: 17px;
+	margin-top: 5px;
+}
+.footer-bottom {
+	background: #282531;
+	color: #fff;
+}
+.footer-left {
+	margin: 31px 40px 20px 89px;
+	color: #fff;
+}
+li{
+	list-style: none;
+	padding-bottom: 10px;
+	cursor: pointer;
+}
+li a {
+	text-decoration: none !important;
+	color: #fff;
+	font-size: 18px;
+}
+
+.copyright {
+	text-align: center;
+	color: #DADADA;
+	margin-top: 70px;
+}
+
+input {
+	margin-left: 85px;
+	width: 230px;
+	background: #E9E9E9;
+	border-radius: 3px;
+	margin-right: 10px;
+}
+#serch-button {
+	border-radius: 3px;
+	width: 42px;
+}
